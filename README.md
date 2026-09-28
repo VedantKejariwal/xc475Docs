@@ -74,3 +74,7 @@ avoid leading the participant. The two conversations went differently:
   the problem itself.
 
 This is reflected in the two write-ups.
+
+## ABUJA front-end mentor demo
+
+The map-first Next.js prototype is in [`demo/`](demo/README.md). It runs without an API key using clearly labeled sample data; the guide can optionally use a server-side OpenAI key. Start with the demo README for the walkthrough, tech-stack explanation, limits, and sources.
